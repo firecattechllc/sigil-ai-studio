@@ -1,0 +1,6 @@
+{
+  "name": "Sigil Mission Control",
+  "description": "Institutional quantitative trading, paper execution, proposal governance, and mission control platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
